@@ -132,6 +132,7 @@ exclude:
   - package.json*
   - Rakefile
   - README
+  - scripts
   - talkmap
   - talkmap.ipynb
   - talkmap.py
